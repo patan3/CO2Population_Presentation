@@ -1,5 +1,4 @@
-# MDA-Presentation
-This is the project presentation of the 'Modern Data Analytics' class at KU Leuven. 
+# CO2Population-Presentation
 The aim of this presentation is to provide a general view of the obtained results by illustrating interactive graphs to the reader. 
 Please confront the analysis [here](https://github.com/patan3/CO2Population_Code).
 
